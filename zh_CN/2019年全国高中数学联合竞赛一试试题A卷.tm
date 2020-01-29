@@ -3,7 +3,7 @@
 <style|<tuple|exam|chinese|number-europe|number-long-article>>
 
 <\body>
-  <\doc-data|<doc-title|2019\<#5E74\>\<#5168\>\<#56FD\>\<#9AD8\>\<#4E2D\>\<#6570\>\<#5B66\>\<#8054\>\<#5408\>\<#7ADE\>\<#8D5B\>\<#4E00\>\<#8BD5\>\<#8BD5\>\<#9898\>\<#FF08\>A\<#5377\>)>|<doc-author|<author-data|<author-name|<TeXmacs>\<#4E2D\>\<#6587\>\<#793E\>\<#533A\>>|<\author-note>
+  <\doc-data|<doc-title|2019\<#5E74\>\<#5168\>\<#56FD\>\<#9AD8\>\<#4E2D\>\<#6570\>\<#5B66\>\<#8054\>\<#5408\>\<#7ADE\>\<#8D5B\>\<#4E00\>\<#8BD5\>\<#8BD5\>\<#9898\>\<#FF08\>A\<#5377\>\<#FF09\>>|<doc-author|<author-data|<author-name|<TeXmacs>\<#4E2D\>\<#6587\>\<#793E\>\<#533A\>>|<\author-note>
     \<#672C\>\<#8BD5\>\<#5377\>\<#7531\><hlink|<TeXmacs>\<#4E2D\>\<#6587\>\<#793E\>\<#533A\>|http://texmacs.cn>\<#4F7F\>\<#7528\>GNU
     <TeXmacs> <TeXmacs-version>\<#6392\>\<#7248\>\<#5236\>\<#4F5C\>
   </author-note>>>>
@@ -107,7 +107,7 @@
   <subsection*|\<#4E8C\>\<#3001\>\<#89E3\>\<#7B54\>\<#9898\>\<#FF1A\>\<#672C\>\<#5927\>\<#9898\>\<#5171\>3\<#5C0F\>\<#9898\>\<#FF0C\>\<#6EE1\>\<#5206\>56\<#5206\>\<#3002\>\<#89E3\>\<#7B54\>\<#5E94\>\<#5199\>\<#51FA\>\<#6587\>\<#5B57\>\<#8BF4\>\<#660E\>\<#3001\>\<#8BC1\>\<#660E\>\<#8FC7\>\<#7A0B\>\<#6216\>\<#6F14\>\<#7B97\>\<#6B65\>\<#9AA4\>\<#3002\>>
 
   <\enumerate>
-    <item>\<#FF08\>\<#672C\>\<#9898\>\<#6EE1\>\<#5206\>16\<#5206\>\<#FF09\>\<#5728\><math|\<Delta\>ABC>\<#4E2D\>\<#FF0C\><math|BC=a>\<#FF0C\><math|CA=b>\<#FF0C\><math|AB=c>.\<#82E5\>b\<#662F\>a\<#4E0E\>c\<#7684\>\<#7B49\>\<#6BD4\>\<#4E2D\>\<#9879\>\<#FF0C\>\<#4E14\><math|sin
+    <item>\<#FF08\>\<#672C\>\<#9898\>\<#6EE1\>\<#5206\>16\<#5206\>\<#FF09\>\<#5728\><math|\<Delta\>ABC>\<#4E2D\>\<#FF0C\><math|BC=a>\<#FF0C\><math|CA=b>\<#FF0C\><math|AB=c>.\<#82E5\><math|b>\<#662F\><math|a>\<#4E0E\><math|c>\<#7684\>\<#7B49\>\<#6BD4\>\<#4E2D\>\<#9879\>\<#FF0C\>\<#4E14\><math|sin
     A>\<#662F\><math|sin<around*|(|B-A|)>>\<#4E0E\><math|sin
     C>\<#7684\>\<#7B49\>\<#5DEE\>\<#4E2D\>\<#9879\>\<#FF0C\>\<#6C42\><math|cos
     B>\<#7684\>\<#503C\>.
@@ -135,13 +135,13 @@
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|\<#4E00\>\<#3001\>\<#586B\>\<#7A7A\>\<#9898\>\<#FF1A\>\<#672C\>\<#5927\>\<#9898\>\<#5171\>8\<#5C0F\>\<#9898\>\<#FF0C\>\<#6BCF\>\<#5C0F\>\<#9898\>8\<#5206\>\<#FF0C\>\<#6EE1\>\<#5206\>64\<#5206\>\<#3002\>>
+      <with|par-left|<quote|1tab>|\<#4E00\>\<#3001\>\<#586B\>\<#7A7A\>\<#9898\>\<#FF1A\>\<#672C\>\<#5927\>\<#9898\>\<#5171\>8\<#5C0F\>\<#9898\>\<#FF0C\>\<#6BCF\>\<#5C0F\>\<#9898\>8\<#5206\>\<#FF0C\>\<#6EE1\>\<#5206\>64\<#5206\>\<#3002\>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-1><vspace|0.5fn>
+      <no-break><pageref|auto-1>>
 
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|\<#4E8C\>\<#3001\>\<#89E3\>\<#7B54\>\<#9898\>\<#FF1A\>\<#672C\>\<#5927\>\<#9898\>\<#5171\>3\<#5C0F\>\<#9898\>\<#FF0C\>\<#6EE1\>\<#5206\>56\<#5206\>\<#3002\>\<#89E3\>\<#7B54\>\<#5E94\>\<#5199\>\<#51FA\>\<#6587\>\<#5B57\>\<#8BF4\>\<#660E\>\<#3001\>\<#8BC1\>\<#660E\>\<#8FC7\>\<#7A0B\>\<#6216\>\<#6F14\>\<#7B97\>\<#6B65\>\<#9AA4\>\<#3002\>>
+      <with|par-left|<quote|1tab>|\<#4E8C\>\<#3001\>\<#89E3\>\<#7B54\>\<#9898\>\<#FF1A\>\<#672C\>\<#5927\>\<#9898\>\<#5171\>3\<#5C0F\>\<#9898\>\<#FF0C\>\<#6EE1\>\<#5206\>56\<#5206\>\<#3002\>\<#89E3\>\<#7B54\>\<#5E94\>\<#5199\>\<#51FA\>\<#6587\>\<#5B57\>\<#8BF4\>\<#660E\>\<#3001\>\<#8BC1\>\<#660E\>\<#8FC7\>\<#7A0B\>\<#6216\>\<#6F14\>\<#7B97\>\<#6B65\>\<#9AA4\>\<#3002\>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-2><vspace|0.5fn>
+      <no-break><pageref|auto-2>>
     </associate>
   </collection>
 </auxiliary>
